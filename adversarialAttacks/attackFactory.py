@@ -23,7 +23,7 @@ def AttackFactory(
     save_dir: str = "../save",
     device: str = "cpu",
 ) -> AdversarialAttack:
-    if attack_type == AttackType.TransfreredFGSM.value:
+    if attack_type == AttackType.TransferredFGSM.value: 
         return TransferredFGSM(
             task=task,
             log=wandb_log,
