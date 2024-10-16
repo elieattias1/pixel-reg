@@ -1,6 +1,6 @@
 # A Brain-Inspired Regularizer for Adversarial Robustness
 
-This repository is the official implementation of [**A Brain-Inspired Regularizer for Adversarial Robustness**][https://arxiv.org/abs/2410.03952]. 
+This repository is the official implementation of [**A Brain-Inspired Regularizer for Adversarial Robustness**](https://arxiv.org/abs/2410.03952).
 
 It is based on the codebase developed by Li et al. in [Learning from brains how to regularize machines](https://arxiv.org/abs/1911.05072).
 ## Requirements
